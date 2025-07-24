@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataeng-data-pipeline",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bebd05e0-1a40-401d-97a2-971dbab22886",
+		"tenantId": "7234cbf2-095e-473b-ba32-2d04b11903e8"
+	}
+}
